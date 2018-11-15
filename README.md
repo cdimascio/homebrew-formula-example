@@ -1,6 +1,6 @@
 # homebrew-formula-example - a simple guide (for me)
 
-## Configure the release
+## Configure the release
 1. Use `homebrew-<project-name>` as name for the git project
 2. Create a new release for the project
 
